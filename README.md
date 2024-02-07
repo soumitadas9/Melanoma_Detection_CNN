@@ -11,10 +11,11 @@ Build a CNN based model which can accurately detect Melanoma
   - [Contact](#contact)
 
 ## General Information
-- This project focuses on the classification of skin cancer types using convolutional neural networks (CNNs).
-- The goal is to create a model capable of accurately detecting different skin cancer types.
-- The project addresses issues such as overfitting, class imbalances, and data augmentation.
-- The dataset used contains approximately 2357 images of skin cancer types, divided into 9 sub-directories representing different classes.
+-The primary objective of this project is to employ convolutional neural networks (CNNs) for the classification of various types of skin cancer.
+-Our aim is to develop a model proficient in accurately identifying different skin cancer types.
+-Throughout the project, we tackle challenges including overfitting, class imbalances, and the implementation of data augmentation techniques.
+-The dataset utilized comprises approximately 2357 images depicting different skin cancer types, organized into 9 sub-directories representing distinct classes.
+
 
 ## Conclusions
 - Initial observations revealed overfitting in the model, which was effectively addressed through the integration of data augmentation techniques.
