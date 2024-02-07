@@ -1,4 +1,4 @@
-# Project Name
+# Project Name - CNN Model for Melanoma Detection
 Build a CNN based model which can accurately detect Melanoma
 
 ## Table of Contents
